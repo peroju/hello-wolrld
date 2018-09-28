@@ -1,2 +1,2 @@
 # hello-wolrld
-First repository for tutorial
+First repository for tutorials
